@@ -19,12 +19,12 @@
   <objects name="objects">
     <object>objects\obj_UK</object>
     <object>objects\obj_UKRAIN</object>
-    <object>objects\paks</object>
     <object>objects\obj_USA</object>
-    <object>objects\object4</object>
     <object>objects\obj_RUSSIA</object>
+    <object>objects\object4</object>
     <object>objects\obj_CHINA</object>
     <object>objects\obj_JAPAN</object>
+    <object>objects\paks</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\room0</room>
